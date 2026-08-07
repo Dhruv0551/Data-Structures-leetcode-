@@ -1,19 +1,15 @@
 class Solution {
 public:
-    int missingNumber(vector<int> &nums)
-{
-    int n = nums.size();
-    vector<int> hash(n + 1, 0);
+    int missingNumber(vector<int>& nums) {
+        int sum1 = 0;
+        int sum2 = 0;
 
-    for (int x : nums)
-        hash[x]++;
+        for (int i = 1; i <= nums.size(); i++)
+        {
+            sum1+=i;
+            sum2+=nums[i - 1];
+        }
 
-    for (int i = 0; i <= n; i++)
-    {
-        if (hash[i] == 0)
-            return i;
+        return sum1 - sum2;
     }
-
-    return -1;
-}
 };
