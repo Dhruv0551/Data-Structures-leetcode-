@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Dhruv0551/DSA/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Dhruv0551/DSA/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Dhruv0551/DSA/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/Dhruv0551/DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Dhruv0551/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Dhruv0551/DSA/tree/master/0075-sort-colors) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Dhruv0551/DSA/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Dhruv0551/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Dhruv0551/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Dhruv0551/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dhruv0551/DSA/tree/master/0283-move-zeroes) |
