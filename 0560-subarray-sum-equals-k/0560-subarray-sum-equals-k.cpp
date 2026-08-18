@@ -7,8 +7,7 @@ public:
         for(int i = 0; i < nums.size(); i++)
         {
             preSum += nums[i];
-            int remove = preSum - k;
-            count += mpp[remove];
+            count += mpp[preSum - k];
             mpp[preSum]++;
         }
         return count;
