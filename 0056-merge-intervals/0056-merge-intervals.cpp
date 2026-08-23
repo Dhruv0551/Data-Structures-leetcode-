@@ -4,25 +4,23 @@ public:
         sort(intervals.begin(), intervals.end());
         vector<vector<int>> ans;
         int n = intervals.size();
-        for(int i = 0; i < n; i++)
+        int front = intervals[0][0]; 
+        int back = intervals[0][1];
+        for(int i = 1; i < n; i++)
         {
-            int head = intervals[i][0];
-            int tail = intervals[i][1];
 
-            if(!ans.empty() && tail <= ans.back()[1])
-                continue;
-
-            for(int j = i+1; j < n; j++)
+            if(back >= intervals[i][0])
             {
-                if(tail >= intervals[j][0])
-                    tail = max(tail, intervals[j][1]);
-                else break;
+                back = max(back, intervals[i][1]);
             }
-            ans.push_back({head, tail});
-            
+            else{
+                ans.push_back({front, back});
+                front = intervals[i][0];
+                back = intervals[i][1];
+            }
         }
+        ans.push_back({front, back});
 
         return ans;
-
     }
 };
