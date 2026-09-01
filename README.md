@@ -13,6 +13,7 @@
 | [0046-permutations](https://github.com/Dhruv0551/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Dhruv0551/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Dhruv0551/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Dhruv0551/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Dhruv0551/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Dhruv0551/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Dhruv0551/DSA/tree/master/0075-sort-colors) |
@@ -127,6 +128,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Dhruv0551/DSA/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhruv0551/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Backtracking
 |  |
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dhruv0551/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Dhruv0551/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Dhruv0551/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Prefix Sum
 |  |
