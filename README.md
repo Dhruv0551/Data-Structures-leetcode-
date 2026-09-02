@@ -36,6 +36,7 @@
 | [0704-binary-search](https://github.com/Dhruv0551/DSA/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Dhruv0551/DSA/tree/master/0877-stone-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhruv0551/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Dhruv0551/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0189-rotate-array](https://github.com/Dhruv0551/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Dhruv0551/DSA/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Dhruv0551/DSA/tree/master/0877-stone-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Dhruv0551/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
