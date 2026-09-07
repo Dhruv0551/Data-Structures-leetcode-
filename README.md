@@ -184,4 +184,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Dhruv0551/DSA/tree/master/0493-reverse-pairs) |
+## String
+|  |
+| ------- |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Dhruv0551/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 <!---LeetCode Topics End-->
