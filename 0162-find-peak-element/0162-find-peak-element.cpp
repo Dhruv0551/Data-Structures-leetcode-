@@ -1,23 +1,25 @@
 class Solution {
 public:
     int findPeakElement(vector<int>& nums) {
-        if(nums.size() == 1) return 0;
+        int n = nums.size() - 1;
 
+        if(!n) return n;
 
         int left = 0;
-        int right = nums.size() - 1;
+        int right = n;
 
-        while (left < right)
+        while(left < right)
         {
-            int mid = left + (right - left) / 2;
-
+            int mid = (right + left) / 2;
 
             if(nums[mid] < nums[mid + 1])
+            {
                 left = mid + 1;
-
+            }
             else right = mid;
-        }
 
-        return left;
+        }      
+        return right;
+
     }
 };
