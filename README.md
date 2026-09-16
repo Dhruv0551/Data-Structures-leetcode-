@@ -42,6 +42,7 @@
 | [0704-binary-search](https://github.com/Dhruv0551/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Dhruv0551/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Dhruv0551/DSA/tree/master/0877-stone-game) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dhruv0551/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Dhruv0551/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhruv0551/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhruv0551/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -94,6 +95,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Dhruv0551/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Dhruv0551/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Dhruv0551/DSA/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dhruv0551/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Dhruv0551/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
 |  |
