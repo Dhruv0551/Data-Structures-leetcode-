@@ -48,6 +48,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Dhruv0551/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dhruv0551/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhruv0551/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Dhruv0551/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhruv0551/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -105,6 +106,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Dhruv0551/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Dhruv0551/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dhruv0551/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Dhruv0551/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 ## Bit Manipulation
 |  |
 | ------- |
