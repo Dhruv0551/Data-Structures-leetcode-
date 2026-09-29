@@ -80,6 +80,7 @@
 | [0141-linked-list-cycle](https://github.com/Dhruv0551/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Dhruv0551/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dhruv0551/DSA/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Dhruv0551/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhruv0551/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhruv0551/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -228,6 +229,7 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Dhruv0551/DSA/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Dhruv0551/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dhruv0551/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Dhruv0551/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
