@@ -237,6 +237,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Dhruv0551/DSA/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Dhruv0551/DSA/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -255,4 +256,8 @@
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Dhruv0551/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dhruv0551/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Dhruv0551/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
