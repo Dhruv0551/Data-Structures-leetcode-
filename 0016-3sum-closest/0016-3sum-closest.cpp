@@ -1,39 +1,50 @@
 class Solution {
 public:
+
     int getDiff(int sum, int target)
     {
-       return abs(target - sum);
+        return abs(target - sum);
     }
 
     int threeSumClosest(vector<int>& nums, int target) {
         sort(nums.begin(), nums.end());
-        int i = 0;
         int n = nums.size();
-        int minDiff = INT_MAX;
+        int i = 0;
         int closestSum = INT_MAX;
+        int minDiff = INT_MAX;
         while (i < n)
         {
-            if(i != 0 && nums[i] == nums[i - 1])
+            if(i > 0 && nums[i] == nums[i - 1])
             {
                 i++;
                 continue;
             }
 
             int j = i + 1;
-            int end = n - 1;
-            while(j < end)
+            int k = n - 1;
+            while(j < k)
             {
-                int sum = nums[i] + nums[j] + nums[end];
+                int sum = nums[i] + nums[j] + nums[k];
+
                 int currDiff = getDiff(sum, target);
+
                 if(currDiff < minDiff)
                 {
-                    minDiff = currDiff;
                     closestSum = sum;
+                    minDiff = currDiff;
                 }
-                if(sum == target) return sum;
-                else if(sum < target) j++;
-                else if(sum > target) end--;
+
+                if(sum < target)
+                    j++;
+                
+                else if(sum > target)
+                    k--;
+
+                else {
+                    return sum;
+                }
             }
+
             i++;
         }
 
