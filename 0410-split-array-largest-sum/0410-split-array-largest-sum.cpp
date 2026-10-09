@@ -1,51 +1,38 @@
 class Solution {
 public:
 
-    pair<int, int> getBoundary(vector<int> &nums)
+    bool SplitSum(vector<int> &nums, int capacity, int k)
     {
-        int maxEl = INT_MIN;
-        int sum = 0;
-        for(int x: nums)
+        int pile = 1;
+        int limit = 0;
+        for(auto &x: nums)
         {
-            sum += x;
-            maxEl = max(maxEl, x);
-        }
-
-        return {maxEl, sum};
-    }
-
-
-    int countPartitions(vector<int> &nums, int limit)
-    {
-        int stack = 1;
-        int sum = 0;
-
-        for(int x: nums)
-        {
-            sum += x;
-
-            if(sum > limit)
+            limit += x;
+            if(limit > capacity)
             {
-                stack++;
-                sum = x;
+                pile++;
+                limit = x;
             }
         }
-        return stack;
+
+        return pile <= k;
     }
 
+
     int splitArray(vector<int>& nums, int k) {
-        pair<int, int> boundary = getBoundary(nums);
-        int left = boundary.first;
-        int right = boundary.second;
+        int left = *max_element(nums.begin(), nums.end());
+        int right = accumulate(nums.begin(), nums.end(), 0);
 
         while(left < right)
         {
             int mid = left + (right - left) / 2;
 
-            if(countPartitions(nums, mid) > k) left = mid + 1;
-            else right = mid;
+            if(SplitSum(nums, mid, k))
+            {
+                right = mid;
+            }
+            else left = mid + 1;
         }
-
-        return right;
+        return left;    
     }
 };
