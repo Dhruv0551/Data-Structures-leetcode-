@@ -112,6 +112,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dhruv0551/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Dhruv0551/DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Dhruv0551/DSA/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Dhruv0551/DSA/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhruv0551/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Dhruv0551/DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Dhruv0551/DSA/tree/master/0493-reverse-pairs) |
@@ -300,4 +301,8 @@
 | [0203-remove-linked-list-elements](https://github.com/Dhruv0551/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Dhruv0551/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Dhruv0551/DSA/tree/master/0234-palindrome-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Dhruv0551/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
