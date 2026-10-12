@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dhruv0551/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Dhruv0551/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Dhruv0551/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Dhruv0551/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Dhruv0551/DSA/tree/master/0141-linked-list-cycle) |
@@ -97,6 +98,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhruv0551/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Dhruv0551/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Dhruv0551/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Dhruv0551/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Dhruv0551/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Dhruv0551/DSA/tree/master/0268-missing-number) |
@@ -242,6 +244,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Dhruv0551/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Dhruv0551/DSA/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Dhruv0551/DSA/tree/master/0344-reverse-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruv0551/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
