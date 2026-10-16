@@ -10,7 +10,7 @@
  */
 class Solution {
 public:
-    ListNode* mergeLists(ListNode* main, ListNode* aux) {
+    ListNode* mergeLists(ListNode* main,ListNode* aux) {
         ListNode* h1 = main;
         ListNode* h2 = aux;
         ListNode* temp = new ListNode(0);
@@ -38,13 +38,18 @@ public:
     }
 
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        ListNode* head = nullptr;
-        for(int i = 0; i < size(lists); i++)
-        {
-            head = mergeLists(head, lists[i]);
-        }
+    if (lists.empty()) return nullptr;
 
-        return head;
-        
+    int interval = 1;
+    int k = lists.size();
+
+    while (interval < k) {
+        for (int i = 0; i + interval < k; i += interval * 2) {
+            lists[i] = mergeLists(lists[i], lists[i + interval]);
+        }
+        interval *= 2;
     }
+
+    return lists[0];
+}
 };
