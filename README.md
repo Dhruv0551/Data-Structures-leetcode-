@@ -167,6 +167,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dhruv0551/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Dhruv0551/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Dhruv0551/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Dhruv0551/DSA/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Dhruv0551/DSA/tree/master/0493-reverse-pairs) |
@@ -239,6 +240,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Dhruv0551/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/Dhruv0551/DSA/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -266,6 +268,7 @@
 | [0002-add-two-numbers](https://github.com/Dhruv0551/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dhruv0551/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Dhruv0551/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Dhruv0551/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Dhruv0551/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dhruv0551/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dhruv0551/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -325,4 +328,12 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Dhruv0551/DSA/tree/master/0278-first-bad-version) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Dhruv0551/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Dhruv0551/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
