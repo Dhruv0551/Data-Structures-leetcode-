@@ -43,6 +43,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Dhruv0551/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv0551/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Dhruv0551/DSA/tree/master/0704-binary-search) |
+| [0817-linked-list-components](https://github.com/Dhruv0551/DSA/tree/master/0817-linked-list-components) |
 | [0875-koko-eating-bananas](https://github.com/Dhruv0551/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Dhruv0551/DSA/tree/master/0877-stone-game) |
 | [0923-3sum-with-multiplicity](https://github.com/Dhruv0551/DSA/tree/master/0923-3sum-with-multiplicity) |
@@ -72,6 +73,7 @@
 | [0268-missing-number](https://github.com/Dhruv0551/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhruv0551/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv0551/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0817-linked-list-components](https://github.com/Dhruv0551/DSA/tree/master/0817-linked-list-components) |
 | [0923-3sum-with-multiplicity](https://github.com/Dhruv0551/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dhruv0551/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Dhruv0551/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -283,6 +285,7 @@
 | [0234-palindrome-linked-list](https://github.com/Dhruv0551/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Dhruv0551/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Dhruv0551/DSA/tree/master/0328-odd-even-linked-list) |
+| [0817-linked-list-components](https://github.com/Dhruv0551/DSA/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/Dhruv0551/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dhruv0551/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
