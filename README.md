@@ -52,6 +52,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Dhruv0551/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Dhruv0551/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dhruv0551/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Dhruv0551/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhruv0551/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Dhruv0551/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dhruv0551/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -136,6 +137,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Dhruv0551/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Dhruv0551/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dhruv0551/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Dhruv0551/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Dhruv0551/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 ## Bit Manipulation
 |  |
@@ -157,6 +159,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Dhruv0551/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0923-3sum-with-multiplicity](https://github.com/Dhruv0551/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dhruv0551/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Dhruv0551/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Dhruv0551/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dhruv0551/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
