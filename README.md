@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Dhruv0551/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dhruv0551/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Dhruv0551/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Dhruv0551/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Dhruv0551/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Dhruv0551/DSA/tree/master/0018-4sum) |
@@ -82,6 +83,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dhruv0551/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Dhruv0551/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Dhruv0551/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Dhruv0551/DSA/tree/master/0018-4sum) |
@@ -302,6 +304,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dhruv0551/DSA/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Dhruv0551/DSA/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruv0551/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhruv0551/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
