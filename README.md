@@ -119,6 +119,7 @@
 | [0189-rotate-array](https://github.com/Dhruv0551/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Dhruv0551/DSA/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Dhruv0551/DSA/tree/master/0877-stone-game) |
+| [2409-count-days-spent-together](https://github.com/Dhruv0551/DSA/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dhruv0551/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Dhruv0551/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhruv0551/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -283,6 +284,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhruv0551/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dhruv0551/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Dhruv0551/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2409-count-days-spent-together](https://github.com/Dhruv0551/DSA/tree/master/2409-count-days-spent-together) |
 ## Linked List
 |  |
 | ------- |
