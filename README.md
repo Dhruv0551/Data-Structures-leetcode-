@@ -38,6 +38,7 @@
 | [0169-majority-element](https://github.com/Dhruv0551/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Dhruv0551/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Dhruv0551/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Dhruv0551/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Dhruv0551/DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhruv0551/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Dhruv0551/DSA/tree/master/0268-missing-number) |
@@ -79,6 +80,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Dhruv0551/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Dhruv0551/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dhruv0551/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Dhruv0551/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Dhruv0551/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Dhruv0551/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhruv0551/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -419,4 +421,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Dhruv0551/DSA/tree/master/0175-combine-two-tables) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Dhruv0551/DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
