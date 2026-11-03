@@ -55,6 +55,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv0551/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Dhruv0551/DSA/tree/master/0704-binary-search) |
 | [0817-linked-list-components](https://github.com/Dhruv0551/DSA/tree/master/0817-linked-list-components) |
+| [0860-lemonade-change](https://github.com/Dhruv0551/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Dhruv0551/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Dhruv0551/DSA/tree/master/0877-stone-game) |
 | [0923-3sum-with-multiplicity](https://github.com/Dhruv0551/DSA/tree/master/0923-3sum-with-multiplicity) |
@@ -341,6 +342,7 @@
 | [0011-container-with-most-water](https://github.com/Dhruv0551/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Dhruv0551/DSA/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Dhruv0551/DSA/tree/master/0410-split-array-largest-sum) |
+| [0860-lemonade-change](https://github.com/Dhruv0551/DSA/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruv0551/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhruv0551/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Dhruv0551/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
