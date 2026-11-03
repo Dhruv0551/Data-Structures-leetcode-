@@ -20,6 +20,7 @@
 | [0048-rotate-image](https://github.com/Dhruv0551/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Dhruv0551/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Dhruv0551/DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Dhruv0551/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Dhruv0551/DSA/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Dhruv0551/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Dhruv0551/DSA/tree/master/0066-plus-one) |
@@ -221,6 +222,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dhruv0551/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Dhruv0551/DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Dhruv0551/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhruv0551/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Dhruv0551/DSA/tree/master/0152-maximum-product-subarray) |
@@ -337,6 +339,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhruv0551/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Dhruv0551/DSA/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Dhruv0551/DSA/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruv0551/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhruv0551/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
