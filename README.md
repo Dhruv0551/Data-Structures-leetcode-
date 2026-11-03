@@ -48,6 +48,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Dhruv0551/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Dhruv0551/DSA/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dhruv0551/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0455-assign-cookies](https://github.com/Dhruv0551/DSA/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhruv0551/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Dhruv0551/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Dhruv0551/DSA/tree/master/0493-reverse-pairs) |
@@ -115,6 +116,7 @@
 | [0283-move-zeroes](https://github.com/Dhruv0551/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Dhruv0551/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhruv0551/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Dhruv0551/DSA/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Dhruv0551/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0923-3sum-with-multiplicity](https://github.com/Dhruv0551/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dhruv0551/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -184,6 +186,7 @@
 | [0229-majority-element-ii](https://github.com/Dhruv0551/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Dhruv0551/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhruv0551/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Dhruv0551/DSA/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhruv0551/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/Dhruv0551/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dhruv0551/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -195,6 +198,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/Dhruv0551/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Dhruv0551/DSA/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/Dhruv0551/DSA/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -342,6 +346,7 @@
 | [0011-container-with-most-water](https://github.com/Dhruv0551/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Dhruv0551/DSA/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Dhruv0551/DSA/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/Dhruv0551/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Dhruv0551/DSA/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruv0551/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhruv0551/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
