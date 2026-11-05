@@ -62,6 +62,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/Dhruv0551/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dhruv0551/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dhruv0551/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhruv0551/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Dhruv0551/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Dhruv0551/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dhruv0551/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -119,6 +120,7 @@
 | [0455-assign-cookies](https://github.com/Dhruv0551/DSA/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Dhruv0551/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0923-3sum-with-multiplicity](https://github.com/Dhruv0551/DSA/tree/master/0923-3sum-with-multiplicity) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhruv0551/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dhruv0551/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhruv0551/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -160,6 +162,7 @@
 | [0875-koko-eating-bananas](https://github.com/Dhruv0551/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dhruv0551/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dhruv0551/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhruv0551/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Dhruv0551/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Dhruv0551/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dhruv0551/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -189,6 +192,7 @@
 | [0455-assign-cookies](https://github.com/Dhruv0551/DSA/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhruv0551/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/Dhruv0551/DSA/tree/master/0923-3sum-with-multiplicity) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhruv0551/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dhruv0551/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dhruv0551/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Dhruv0551/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
