@@ -1,33 +1,33 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int n = prices.size();
-
-        if (n < 2) return 0;
+        int n = size(prices);
+        if(n < 2) return 0;
 
         vector<int> leftProfit(n, 0);
         vector<int> rightProfit(n, 0);
 
-        int cost = prices[0];
-
-        for (int i = 1; i < n; i++) {
-            cost = min(cost, prices[i]);
-            leftProfit[i] = max(leftProfit[i - 1], prices[i] - cost);
+        int leftMinCost = prices[0];
+        for(int i = 1; i < n; i++)
+        {
+            leftMinCost = min(leftMinCost, prices[i]);
+            leftProfit[i] = max(leftProfit[i-1], prices[i] - leftMinCost);
         }
 
-        int sellingPrice = prices[n - 1];
-
-        for (int i = n - 2; i >= 0; i--) {
-            sellingPrice = max(sellingPrice, prices[i]);
-            rightProfit[i] = max(rightProfit[i + 1], sellingPrice - prices[i]);
+        int rightMaxProf = prices[n-1];
+        for(int i = n-2; i >= 0; i--)
+        {
+            rightMaxProf = max(rightMaxProf, prices[i]);
+            rightProfit[i] = max(rightProfit[i+1], rightMaxProf - prices[i]);
         }
 
-        int ans = 0;
 
-        for (int i = 0; i < n; i++) {
-            ans = max(ans, leftProfit[i] + rightProfit[i]);
+        int maxProfit = 0;
+        for(int i = 0; i < n; i++)
+        {
+            maxProfit = max(maxProfit, rightProfit[i] + leftProfit[i]);
         }
 
-        return ans;
+        return maxProfit;
     }
 };
