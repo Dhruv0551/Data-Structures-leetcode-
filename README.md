@@ -51,6 +51,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Dhruv0551/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhruv0551/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Dhruv0551/DSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Dhruv0551/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dhruv0551/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Dhruv0551/DSA/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhruv0551/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -200,6 +201,7 @@
 | [0229-majority-element-ii](https://github.com/Dhruv0551/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Dhruv0551/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhruv0551/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/Dhruv0551/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Dhruv0551/DSA/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhruv0551/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/Dhruv0551/DSA/tree/master/0923-3sum-with-multiplicity) |
@@ -251,6 +253,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Dhruv0551/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Dhruv0551/DSA/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Dhruv0551/DSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Dhruv0551/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/Dhruv0551/DSA/tree/master/0877-stone-game) |
 ## Simulation
 |  |
@@ -368,6 +371,7 @@
 | [0055-jump-game](https://github.com/Dhruv0551/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dhruv0551/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/Dhruv0551/DSA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Dhruv0551/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Dhruv0551/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Dhruv0551/DSA/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruv0551/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
