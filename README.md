@@ -148,6 +148,7 @@
 | [2409-count-days-spent-together](https://github.com/Dhruv0551/DSA/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dhruv0551/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Dhruv0551/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Dhruv0551/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhruv0551/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -378,6 +379,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhruv0551/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Dhruv0551/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dhruv0551/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Dhruv0551/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Stack
 |  |
 | ------- |
