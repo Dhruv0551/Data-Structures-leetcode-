@@ -401,6 +401,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhruv0551/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhruv0551/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhruv0551/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Dhruv0551/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Dhruv0551/DSA/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/Dhruv0551/DSA/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruv0551/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -443,6 +444,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Dhruv0551/DSA/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/Dhruv0551/DSA/tree/master/0707-design-linked-list) |
 ## Tree
 |  |
