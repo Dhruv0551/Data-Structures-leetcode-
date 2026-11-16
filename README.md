@@ -62,6 +62,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Dhruv0551/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv0551/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Dhruv0551/DSA/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/Dhruv0551/DSA/tree/master/0735-asteroid-collision) |
 | [0817-linked-list-components](https://github.com/Dhruv0551/DSA/tree/master/0817-linked-list-components) |
 | [0860-lemonade-change](https://github.com/Dhruv0551/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Dhruv0551/DSA/tree/master/0875-koko-eating-bananas) |
@@ -269,6 +270,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Dhruv0551/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Dhruv0551/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0735-asteroid-collision](https://github.com/Dhruv0551/DSA/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhruv0551/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Dhruv0551/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Backtracking
@@ -400,6 +402,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhruv0551/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhruv0551/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Dhruv0551/DSA/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/Dhruv0551/DSA/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruv0551/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Dhruv0551/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dhruv0551/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
