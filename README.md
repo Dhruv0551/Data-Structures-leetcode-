@@ -258,6 +258,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Dhruv0551/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Dhruv0551/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dhruv0551/DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Dhruv0551/DSA/tree/master/0118-pascals-triangle) |
@@ -342,6 +343,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Dhruv0551/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Dhruv0551/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Dhruv0551/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Dhruv0551/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Dhruv0551/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Dhruv0551/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Dhruv0551/DSA/tree/master/0344-reverse-string) |
@@ -401,6 +403,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhruv0551/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Dhruv0551/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhruv0551/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhruv0551/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhruv0551/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -417,6 +420,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhruv0551/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Dhruv0551/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruv0551/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Dhruv0551/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dhruv0551/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
