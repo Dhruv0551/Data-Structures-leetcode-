@@ -59,6 +59,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhruv0551/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Dhruv0551/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Dhruv0551/DSA/tree/master/0493-reverse-pairs) |
+| [0506-relative-ranks](https://github.com/Dhruv0551/DSA/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dhruv0551/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv0551/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Dhruv0551/DSA/tree/master/0704-binary-search) |
@@ -213,6 +214,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Dhruv0551/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Dhruv0551/DSA/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhruv0551/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0506-relative-ranks](https://github.com/Dhruv0551/DSA/tree/master/0506-relative-ranks) |
 | [0923-3sum-with-multiplicity](https://github.com/Dhruv0551/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhruv0551/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dhruv0551/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -437,6 +439,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dhruv0551/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhruv0551/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0506-relative-ranks](https://github.com/Dhruv0551/DSA/tree/master/0506-relative-ranks) |
 ## Tournament Sort
 |  |
 | ------- |
