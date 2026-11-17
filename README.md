@@ -59,6 +59,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhruv0551/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Dhruv0551/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Dhruv0551/DSA/tree/master/0493-reverse-pairs) |
+| [0503-next-greater-element-ii](https://github.com/Dhruv0551/DSA/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Dhruv0551/DSA/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dhruv0551/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv0551/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -405,6 +406,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhruv0551/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Dhruv0551/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Dhruv0551/DSA/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/Dhruv0551/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Dhruv0551/DSA/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruv0551/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Dhruv0551/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -512,4 +514,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhruv0551/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Dhruv0551/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
