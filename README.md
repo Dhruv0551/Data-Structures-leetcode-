@@ -75,6 +75,7 @@
 | [0875-koko-eating-bananas](https://github.com/Dhruv0551/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Dhruv0551/DSA/tree/master/0877-stone-game) |
 | [0923-3sum-with-multiplicity](https://github.com/Dhruv0551/DSA/tree/master/0923-3sum-with-multiplicity) |
+| [0946-validate-stack-sequences](https://github.com/Dhruv0551/DSA/tree/master/0946-validate-stack-sequences) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dhruv0551/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dhruv0551/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhruv0551/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -288,6 +289,7 @@
 | [0054-spiral-matrix](https://github.com/Dhruv0551/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Dhruv0551/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/Dhruv0551/DSA/tree/master/0735-asteroid-collision) |
+| [0946-validate-stack-sequences](https://github.com/Dhruv0551/DSA/tree/master/0946-validate-stack-sequences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhruv0551/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Dhruv0551/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Backtracking
@@ -429,6 +431,7 @@
 | [0735-asteroid-collision](https://github.com/Dhruv0551/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Dhruv0551/DSA/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruv0551/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0946-validate-stack-sequences](https://github.com/Dhruv0551/DSA/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/Dhruv0551/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dhruv0551/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhruv0551/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
