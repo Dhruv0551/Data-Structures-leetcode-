@@ -76,6 +76,7 @@
 | [0877-stone-game](https://github.com/Dhruv0551/DSA/tree/master/0877-stone-game) |
 | [0923-3sum-with-multiplicity](https://github.com/Dhruv0551/DSA/tree/master/0923-3sum-with-multiplicity) |
 | [0946-validate-stack-sequences](https://github.com/Dhruv0551/DSA/tree/master/0946-validate-stack-sequences) |
+| [0973-k-closest-points-to-origin](https://github.com/Dhruv0551/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dhruv0551/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dhruv0551/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhruv0551/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -161,6 +162,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dhruv0551/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhruv0551/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/Dhruv0551/DSA/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/Dhruv0551/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [2409-count-days-spent-together](https://github.com/Dhruv0551/DSA/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dhruv0551/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Dhruv0551/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -228,6 +230,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dhruv0551/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/Dhruv0551/DSA/tree/master/0506-relative-ranks) |
 | [0923-3sum-with-multiplicity](https://github.com/Dhruv0551/DSA/tree/master/0923-3sum-with-multiplicity) |
+| [0973-k-closest-points-to-origin](https://github.com/Dhruv0551/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dhruv0551/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dhruv0551/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dhruv0551/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -255,6 +258,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhruv0551/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv0551/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Dhruv0551/DSA/tree/master/0493-reverse-pairs) |
+| [0973-k-closest-points-to-origin](https://github.com/Dhruv0551/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -468,6 +472,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Dhruv0551/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dhruv0551/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Dhruv0551/DSA/tree/master/0506-relative-ranks) |
+| [0973-k-closest-points-to-origin](https://github.com/Dhruv0551/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -541,6 +546,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhruv0551/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv0551/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Dhruv0551/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -556,4 +562,12 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhruv0551/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Dhruv0551/DSA/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Dhruv0551/DSA/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
