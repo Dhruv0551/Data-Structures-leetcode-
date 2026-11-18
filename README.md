@@ -68,6 +68,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Dhruv0551/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Dhruv0551/DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Dhruv0551/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Dhruv0551/DSA/tree/master/0739-daily-temperatures) |
 | [0817-linked-list-components](https://github.com/Dhruv0551/DSA/tree/master/0817-linked-list-components) |
 | [0860-lemonade-change](https://github.com/Dhruv0551/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Dhruv0551/DSA/tree/master/0875-koko-eating-bananas) |
@@ -422,6 +423,7 @@
 | [0234-palindrome-linked-list](https://github.com/Dhruv0551/DSA/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Dhruv0551/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Dhruv0551/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Dhruv0551/DSA/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruv0551/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Dhruv0551/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Dhruv0551/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -537,6 +539,7 @@
 | [0042-trapping-rain-water](https://github.com/Dhruv0551/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Dhruv0551/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Dhruv0551/DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Dhruv0551/DSA/tree/master/0739-daily-temperatures) |
 ## Bucket Sort
 |  |
 | ------- |
