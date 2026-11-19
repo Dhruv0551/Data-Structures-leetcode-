@@ -89,6 +89,7 @@
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Dhruv0551/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhruv0551/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Dhruv0551/DSA/tree/master/2187-minimum-time-to-complete-trips) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Dhruv0551/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dhruv0551/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dhruv0551/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dhruv0551/DSA/tree/master/3364-minimum-positive-sum-subarray) |
@@ -235,6 +236,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/Dhruv0551/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dhruv0551/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Dhruv0551/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Dhruv0551/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Dhruv0551/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dhruv0551/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
@@ -416,6 +418,7 @@
 | [0860-lemonade-change](https://github.com/Dhruv0551/DSA/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dhruv0551/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dhruv0551/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Dhruv0551/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Dhruv0551/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dhruv0551/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Dhruv0551/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
