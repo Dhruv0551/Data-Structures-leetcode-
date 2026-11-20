@@ -475,6 +475,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Dhruv0551/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dhruv0551/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Dhruv0551/DSA/tree/master/0506-relative-ranks) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Dhruv0551/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Dhruv0551/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Tournament Sort
 |  |
@@ -484,6 +485,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Dhruv0551/DSA/tree/master/0155-min-stack) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Dhruv0551/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/Dhruv0551/DSA/tree/master/0707-design-linked-list) |
 ## Tree
 |  |
@@ -497,6 +499,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhruv0551/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhruv0551/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dhruv0551/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Dhruv0551/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -519,6 +522,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Dhruv0551/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dhruv0551/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dhruv0551/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Dhruv0551/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -544,6 +548,7 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dhruv0551/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Dhruv0551/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
 | ------- |
@@ -573,4 +578,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Dhruv0551/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Dhruv0551/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
