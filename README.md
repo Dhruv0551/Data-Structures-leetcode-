@@ -159,6 +159,7 @@
 | [0013-roman-to-integer](https://github.com/Dhruv0551/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Dhruv0551/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Dhruv0551/DSA/tree/master/0066-plus-one) |
+| [0096-unique-binary-search-trees](https://github.com/Dhruv0551/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Dhruv0551/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Dhruv0551/DSA/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Dhruv0551/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -283,6 +284,7 @@
 | [0042-trapping-rain-water](https://github.com/Dhruv0551/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Dhruv0551/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dhruv0551/DSA/tree/master/0055-jump-game) |
+| [0096-unique-binary-search-trees](https://github.com/Dhruv0551/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Dhruv0551/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhruv0551/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dhruv0551/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -495,6 +497,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhruv0551/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Dhruv0551/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Dhruv0551/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Dhruv0551/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Dhruv0551/DSA/tree/master/0102-binary-tree-level-order-traversal) |
@@ -525,6 +528,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhruv0551/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Dhruv0551/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Dhruv0551/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Dhruv0551/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Dhruv0551/DSA/tree/master/0102-binary-tree-level-order-traversal) |
@@ -563,6 +567,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Dhruv0551/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhruv0551/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Dhruv0551/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Dhruv0551/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
