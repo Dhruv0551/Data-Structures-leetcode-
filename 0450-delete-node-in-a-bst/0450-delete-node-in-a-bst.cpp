@@ -28,14 +28,7 @@ public:
             root->right = deleteNode(root->right, key);
 
         else {
-            if(!root->left && !root->right)
-            {
-                TreeNode* temp = root;
-                delete root;
-                return nullptr;
-            }
-
-            else if(!root->left || !root->right)
+           if(!root->left || !root->right)
             {
                 return (root->left) ? root->left : root->right;
             }
