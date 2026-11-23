@@ -1,39 +1,37 @@
 /**
- * Definition for a binary tree node.
- * struct TreeNode {
+ * Definition for a binary tree TreeNode.
+ * struct TreeTreeNode {
  *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeTreeNode *left;
+ *     TreeTreeNode *right;
+ *     TreeTreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeTreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeTreeNode(int x, TreeTreeNode *left, TreeTreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
 public:
     vector<vector<int>> levelOrder(TreeNode* root) {
-        vector<vector<int>> ans;
-        if(!root) return ans;
+    if(!root) return {};
+    queue<TreeNode *> q;
+    q.push(root);
+    vector<vector<int>> ans;
+    while (!q.empty()) {
+      vector<int> temp;
+      int n = q.size();
+      for (int i = 0; i < n; i++) {
+        TreeNode *front = q.front();
+        q.pop();
 
-        queue<TreeNode*> q;
-        q.push(root);
-        while(!q.empty())
-        {
-            vector<int> tempAns;
-            int size = q.size();
-            for(int i = 0; i < size; i++)
-            {
-                TreeNode* temp = q.front();
-                q.pop();
+        temp.push_back(front->val);
 
-                tempAns.push_back(temp->val);
-                if(temp->left) q.push(temp->left);
-                if(temp->right) q.push(temp->right);
-            }
-            ans.push_back(tempAns);
-        }
-
-        return ans;
-
+        if (front->left)
+          q.push(front->left);
+        if (front->right)
+          q.push(front->right);
+      }
+      ans.push_back(temp);
+    }
+    return ans;
     }
 };
