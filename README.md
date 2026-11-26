@@ -169,6 +169,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Dhruv0551/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Dhruv0551/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [2409-count-days-spent-together](https://github.com/Dhruv0551/DSA/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/Dhruv0551/DSA/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dhruv0551/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Dhruv0551/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Dhruv0551/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -305,6 +306,7 @@
 | [0946-validate-stack-sequences](https://github.com/Dhruv0551/DSA/tree/master/0946-validate-stack-sequences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhruv0551/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Dhruv0551/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Dhruv0551/DSA/tree/master/3360-stone-removal-game) |
 ## Backtracking
 |  |
 | ------- |
