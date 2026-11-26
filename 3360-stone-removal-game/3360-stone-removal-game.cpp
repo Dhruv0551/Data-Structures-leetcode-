@@ -7,7 +7,9 @@ public:
         while (n >= take) {
             n -= take;
             take--;
-            aliceTurn = !aliceTurn;
+            // aliceTurn = !aliceTurn;
+            if(aliceTurn) aliceTurn = false;
+            else aliceTurn = true;
         }
 
         return !aliceTurn;
